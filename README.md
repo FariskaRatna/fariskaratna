@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 📊 Statistic
+![Fariska's GitHub Statistic](https://github-readme-stats.vercel.app/api?username=FariskaRatna&theme=transparent&show_icons=true)
+
+![Fariska's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FariskaRatnaq&theme=transparent&show_icons=true)
+
 <!--
 **FariskaRatna/fariskaratna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
