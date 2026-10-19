@@ -137,6 +137,7 @@ $ git remote -v
 ```
 
 - **GitHub:** [@FariskaRatna](https://github.com/FariskaRatna)
+- **Linkedin:** [Fariska Ratna Fauziah](https://www.linkedin.com/in/fariska-ratna-fauziah-728325277/)
 
 ```bash
 $ echo "Thanks for visiting my corner of the internet."
