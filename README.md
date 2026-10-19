@@ -3,16 +3,16 @@
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│   ███████╗ █████╗ ██████╗ ██╗███████╗██╗  ██╗ █████╗        │
-│   ██╔════╝██╔══██╗██╔══██╗██╔██╔════╝██║ ██╔╝██╔══██╗       │
-│   █████╗  ███████║██████╔╝██║███████╗█████╔╝ ███████║       │
-│   ██╔══╝  ██╔══██║██╔══██╗██║╚════██║██╔═██╗ ██╔══██║       │
-│   ██║     ██║  ██║██║  ██║██║███████║██║  ██╗██║  ██║       │
-│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝       │
+│   ███████╗ █████╗ ██████╗ ██╗███████╗██╗  ██╗ █████╗         │
+│   ██╔════╝██╔══██╗██╔══██╗██╔██╔════╝██║ ██╔╝██╔══██╗        │
+│   █████╗  ███████║██████╔╝██║███████╗█████╔╝ ███████║        │
+│   ██╔══╝  ██╔══██║██╔══██╗██║╚════██║██╔═██╗ ██╔══██║        │
+│   ██║     ██║  ██║██║  ██║██║███████║██║  ██╗██║  ██║        │
+│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝        │
 │                                                              │
 │   AI ENGINEERING  /  BACKEND SYSTEMS  /  DATA                │
-│   STATUS: BUILDING                                            │
-│   MODE: LEARN -> EXPERIMENT -> ENGINEER                       │
+│   STATUS: BUILDING                                           │
+│   MODE: LEARN -> EXPERIMENT -> ENGINEER                      │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
@@ -94,30 +94,7 @@ class Engineer:
 
 ---
 
-## `03` // ENGINEERING INTERESTS
-
-```text
-[AI / ML]
-    ├── Machine Learning
-    ├── Intelligent Applications
-    └── Applied AI Research
-
-[BACKEND]
-    ├── Application Development
-    ├── API Integration
-    └── Deployment & Infrastructure
-
-[DATA]
-    ├── Data Collection & Web Scraping
-    ├── Data Cleaning & Preprocessing
-    └── Analytics & Visualization
-```
-
-I enjoy working across the lifecycle of a system, from collecting and preparing data to developing applications that make it accessible and useful.
-
----
-
-## `04` // GITHUB ANALYTICS
+## `03` // GITHUB ANALYTICS
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=FariskaRatna&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub contribution statistics" />
@@ -130,7 +107,7 @@ I enjoy working across the lifecycle of a system, from collecting and preparing 
 
 ---
 
-## `05` // CONNECT
+## `04` // CONNECT
 
 ```bash
 $ git remote -v
